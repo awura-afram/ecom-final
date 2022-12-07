@@ -123,6 +123,12 @@ if (isset($_SESSION['user_role']) == '1') {
                                 </a>
                             </li>
 
+                            <li class="sidebar-item  ">
+                                <a href="../login/logout.php" class='sidebar-link'>
+                                    <i class="bi bi-grid-fill"></i>
+                                    <span>Logout</span>
+                                </a>
+                            </li>
 
                         </ul>
                     </div>
